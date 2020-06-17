@@ -1,0 +1,22 @@
+{
+  "name": "job_scrappy",
+  "version": "1.0.0",
+  "description": "Scrap Jobs from linkedin",
+  "author": {
+    "name" :" Ricardo de Arruda",
+    "email" : "settiricardo@gmail.com"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "prompts": "^2.3.2",
+    "puppeteer": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
